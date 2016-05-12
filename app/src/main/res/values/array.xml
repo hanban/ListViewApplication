@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="People">
+        <item>Anna</item>
+        <item>Bob</item>
+        <item>Charlie</item>
+        <item>Delphine</item>
+        <item>Emily</item>
+        <item>Frank</item>
+        <item>Georgina</item>
+        <item>Hamish</item>
+        <item>Ian</item>
+        <item>Jeremy</item>
+        <item>Kylie</item>
+    </string-array>
+</resources>
